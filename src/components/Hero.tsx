@@ -36,7 +36,7 @@ const Hero = () => {
                     Welcome to Sicko
                 </h2>
                 <TextGenerateEffect 
-                className='text-center text-[100px] md:text- 5xl lg:text-6xl'
+                className='text-center text-[100px] md:text-2xl lg:text-3xl'
                 words='A world of possibilities and opportunities for you'/>
 
                 <p className=' text-center text-sm md:tracking-wider '>
