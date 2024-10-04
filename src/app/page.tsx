@@ -1,8 +1,8 @@
 import Hero from "@/components/Hero";
-import { main } from "framer-motion/client";
+
 import './globals.css';
 
-import { Grid, HomeIcon } from "lucide-react";
+
 
 
 
